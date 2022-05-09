@@ -1,6 +1,8 @@
 # Desafio-Warren
 GitHub para o Desafio de Programação
 
+Autor: Martin Baraldi Lobe
+
 # Sobre os programas
 Para fazer os desafios foi escolhida a linguagem Python. Tendo isso em conta, para executar os programas é necessário ter python instalado no computador.
 
